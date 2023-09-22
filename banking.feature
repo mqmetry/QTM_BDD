@@ -24,4 +24,3 @@ Feature: Banking
 	| balance| withdraw | received |
 	| 200 | 150 | 150 |
 	| 500 | 200 | 300 |
-Update
