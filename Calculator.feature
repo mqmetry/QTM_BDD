@@ -1,7 +1,9 @@
-Hi, this is a feature file pushed from QTM
+Feature: Banking
+  As a user
+  I want to use a ATM Trasanction
 
 
-    @requirementKey=QASI-RQ-1
+    @requirementKey=QASI-RQ-6
     @testEntityKey=QASI-TC-124
     Scenario: Calculator Create Test
     Given I have 5 on my keyboard
